@@ -1,23 +1,50 @@
 # Hi, I'm Tanapat Daoloy #
-I am currently studying for a Bachelor of Science in Information Technology (IT) at King Mongkut's University of Technology Thonburi , Thailand. Nice to meet you. :3
+I am currently studying for a Bachelor of Science in Information Technology (IT) at King Mongkut's University of Technology Thonburi , Thailand. Nice to meet you :3.
 
-- 🌱 I’m currently learning **MongoDB,Golang**
 
-- 📫 How to reach me **tanapatsohandsomes@gmail.com**
+- <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/eyes_1f440.gif" width = "20" height = "20"/> I'm looking for full-stack development internship.
+- <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/seedling_1f331.gif" width = "20" height = "20"/> I’m currently learning **MongoDB,Golang and ReactJS**.
 
 ## Contact me:
 <p align="left">
 <a href="https://www.facebook.com/tanapat.daoloy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanapat daoloy" height="30" width="40" /></a>
 <a href="https://instagram.com/your_ctrl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your_ctrl" height="30" width="40" /></a>
+<a href="mailto:tanapatsohandsomes@gmail.com"><img align="center" src="https://api.iconify.design/twemoji:envelope.svg?color=%2300ffcc" height="40" width="40"/> </a>
 </p>
 
-## Languages and Tools:
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## Development Languages:
+<p align="left">  
+<a href="https://www.java.com/en/"><img src="https://api.iconify.design/vscode-icons:file-type-java.svg?color=%2300ffcc" alt="Java" width="50" height="50"/> </a>
+<a href="https://www.w3schools.com/html/"><img src="https://api.iconify.design/vscode-icons:file-type-html.svg?color=%2300ffcc" alt="html5" width="50" height="50"/> </a>
+<a href="https://www.w3schools.com/css/"><img src="https://api.iconify.design/vscode-icons:file-type-css.svg?color=%2300ffcc" alt="css" width="50" height="50"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://api.iconify.design/vscode-icons:file-type-js-official.svg?color=%2300ffcc" alt="javascript" width="50" height="50"/> </a>
+<a href="https://www.w3schools.com/sql/"><img src="https://api.iconify.design/vscode-icons:file-type-sql.svg?color=%2300ffcc" alt="sql" width="50" height="50"/> </a>
+<a href="https://www.docker.com/"><img src="https://api.iconify.design/vscode-icons:file-type-docker.svg?color=%2300ffcc" alt="docker" width="50" height="50"/> </a>
+<a href="https://vuejs.org/"><img src="https://api.iconify.design/vscode-icons:file-type-vue.svg?color=%2300ffcc" alt="VueJS" width="50" height="50"/> </a>
+<a href="https://tailwindcss.com/"><img src="https://api.iconify.design/vscode-icons:file-type-tailwind.svg?color=%2300ffcc" alt="Tailwind" width="50" height="50"/> </a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://spring.io/img/logos/spring-initializr.svg" alt="Spring-Boot" width="50" height="50"/> </a>
+<a href="https://git-scm.com/"><img src="https://api.iconify.design/vscode-icons:file-type-git.svg?color=%2300ffcc" alt="git" width="50" height="50"/> </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkkoreo&show_icons=true&locale=en&layout=compact" alt="darkkoreo" /></p>
+## Tools:
+<p align="left"> 
+<a href="https://www.mysql.com/"><img src="https://api.iconify.design/vscode-icons:file-type-mysql.svg?color=%2300ffcc" alt="mysql" width="50" height="50"/> </a>
+<a href="https://code.visualstudio.com/"><img src="https://api.iconify.design/vscode-icons:file-type-vscode.svg?color=%2300ffcc" alt="vs-code" width="50" height="50"/>
+<a href="https://github.com/"><img src="https://api.iconify.design/ant-design:github-filled.svg?color=%2300ffcc" alt="github" width="50" height="50"/>
+<a href="https://www.jetbrains.com/idea/"><img src="https://api.iconify.design/logos:intellij-idea.svg?color=%2300ffcc" alt="intellij" width="50" height="50"/>
+<a href="https://www.jetbrains.com/datagrip/?source=google&medium=cpc&campaign=15034927879&term=datagrip&content=555122603976&gad=1&gclid=Cj0KCQjwvL-oBhCxARIsAHkOiu1Ckdp6ixB_eXYz_5RShtBs8KJGftvJbVNVy_3JqVT6MZUqMP16LBsaAg2cEALw_wcB"><img src="https://api.iconify.design/devicon:datagrip.svg?color=%2300ffcc" alt="datagrip" width="50" height="50"/>
+<a href="https://www.figma.com/"><img src="https://api.iconify.design/logos:figma.svg?color=%2300ffcc" alt="figma" width="50" height="50"/>
+<a href="https://www.postman.com/"><img src="https://api.iconify.design/logos:postman-icon.svg?color=%2300ffcc" alt="postman" width="50" height="50"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkkoreo&show_icons=true&locale=en" alt="darkkoreo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkkoreo&theme=default" alt="darkkoreo" /></p>
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darkkoreo&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="darkkoreo" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darkkoreo&show_icons=true&theme=tokyonight&locale=en" alt="darkkoreo" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkkoreo&theme=highcontrast" alt="darkkoreo" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkkoreo&label=Profile%20views&color=0e75b6&style=flat" alt="darkkoreo" /> </p>

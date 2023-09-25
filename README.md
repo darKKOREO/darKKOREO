@@ -12,7 +12,7 @@ I am currently studying for a Bachelor of Science in Information Technology (IT)
 <a href="mailto:tanapatsohandsomes@gmail.com"><img align="center" src="https://api.iconify.design/twemoji:envelope.svg?color=%2300ffcc" height="40" width="40"/> </a>
 </p>
 
-## Development Languages:
+## Development:
 <p align="left">  
 <a href="https://www.java.com/en/"><img src="https://api.iconify.design/vscode-icons:file-type-java.svg?color=%2300ffcc" alt="Java" width="50" height="50"/> </a>
 <a href="https://www.w3schools.com/html/"><img src="https://api.iconify.design/vscode-icons:file-type-html.svg?color=%2300ffcc" alt="html5" width="50" height="50"/> </a>
@@ -22,8 +22,8 @@ I am currently studying for a Bachelor of Science in Information Technology (IT)
 <a href="https://www.docker.com/"><img src="https://api.iconify.design/vscode-icons:file-type-docker.svg?color=%2300ffcc" alt="docker" width="50" height="50"/> </a>
 <a href="https://vuejs.org/"><img src="https://api.iconify.design/vscode-icons:file-type-vue.svg?color=%2300ffcc" alt="VueJS" width="50" height="50"/> </a>
 <a href="https://tailwindcss.com/"><img src="https://api.iconify.design/vscode-icons:file-type-tailwind.svg?color=%2300ffcc" alt="Tailwind" width="50" height="50"/> </a>
-<a href="https://spring.io/projects/spring-boot"><img src="https://spring.io/img/logos/spring-initializr.svg" alt="Spring-Boot" width="50" height="50"/> </a>
 <a href="https://git-scm.com/"><img src="https://api.iconify.design/vscode-icons:file-type-git.svg?color=%2300ffcc" alt="git" width="50" height="50"/> </a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://spring.io/img/logos/spring-initializr.svg" alt="Spring-Boot" width="50" height="50"/> </a>
 </p>
 
 ## Tools:

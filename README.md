@@ -1,10 +1,6 @@
 # Hi, I'm Tanapat Daoloy #
 I am currently studying for a Bachelor of Science in Information Technology (IT) at King Mongkut's University of Technology Thonburi , Thailand. Nice to meet you :3.
 
-
-- <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/eyes_1f440.gif" width = "20" height = "20"/> I'm looking for full-stack development internship.
-- <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/seedling_1f331.gif" width = "20" height = "20"/> I’m currently learning **MongoDB,Golang and ReactJS**.
-
 ## Contact me:
 <p align="left">
 <a href="https://www.facebook.com/tanapat.daoloy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanapat daoloy" height="30" width="40" /></a>
